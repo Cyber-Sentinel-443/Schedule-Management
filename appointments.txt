@@ -1,2 +1,4 @@
-12152005 12345678 "Seth Smithey" "Has a headache"
-12345675 12435325 "Bob Turner" "Is dead"
+2005-20-12, 12:40, Seth Smithey, has a sore tooth
+2006-38-12, 13:59, Bob Thrasher, has a broken bone
+2005-50-1, 06:40-40:78, Bob Builder, do not know
+2005-10-13, 10:20-13:20, Ella Cowan, Is a good cook
