@@ -1,4 +1,6 @@
-2005-20-12, 12:40, Seth Smithey, has a sore tooth
-2006-38-12, 13:59, Bob Thrasher, has a broken bone
-2005-50-1, 06:40-40:78, Bob Builder, do not know
-2005-10-13, 10:20-13:20, Ella Cowan, Is a good cook
+12-2005-20, 12:40-13:51, Bill Smith, Has a sore tooth
+12-2006-38, 13:59-14:11, Bob Thrasher, Has a broken bone
+1-2005-50, 06:40-40:78, John, Unknown
+13-2005-10, 10:20-13:20, Ryan Maverick, Needs medical attension
+2030, 12:33-14:55, Billy Bob, Needs medical advice
+3-2008-6, 12:40-13:50, Hannah Smithey, needs mental help
